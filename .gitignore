@@ -3,3 +3,4 @@ __pycache__
 kayraenv
 db.sqlite3
 .DS_Store
+myenv
